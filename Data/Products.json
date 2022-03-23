@@ -1,0 +1,41 @@
+{
+  "items":
+  [
+    {
+      "Id": 1,
+      "CategoryId": 1,
+      "Name": "IPhone 13",
+      "Price": 20000.0
+    },
+    {
+      "Id": 2,
+      "CategoryId": 1,
+      "Name": "Samsung Galaxy S21",
+      "Price": 33000.0
+    },
+    {
+      "Id": 3,
+      "CategoryId": 2,
+      "Name": "HP Omen",
+      "Price": 60000.0
+    },
+    {
+      "Id": 4,
+      "CategoryId": 2,
+      "Name": "Acer Aspire",
+      "Price": 55000.0
+    },
+    {
+      "Id": 5,
+      "CategoryId": 1,
+      "Name": "Xiaomi Redmi Note 5",
+      "Price": 5000.0
+    },
+    {
+      "Id": 6,
+      "CategoryId": 2,
+      "Name": "Lenovo Legion",
+      "Price": 57000.0
+    }
+  ]
+}
